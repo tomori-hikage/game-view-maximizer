@@ -7,7 +7,7 @@
 
 ## Description
 
-game-view-maximizerはGameViewをショートカットキーからMaximizeするエディタ拡張です
+game-view-maximizerはGameViewをショートカットキー(Ctrl + Shift + X)からMaximizeするエディタ拡張です
 
 ## Demo
 
