@@ -11,7 +11,7 @@ game-view-maximizerはGameViewをショートカットキー(Ctrl + Shift + X)�
 
 ## Demo
 
-![実行結果](https://github.com/tomoriaki/create-empty-at-zero-position/blob/readme_images/Images/ss1.gif)
+![実行結果](https://github.com/tomori-hikage/game-view-maximizer/blob/readme_images/Images/gif1.gif)
 
 ## Install
 
